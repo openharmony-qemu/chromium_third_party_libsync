@@ -1,7 +1,7 @@
 [
     {
         "Name": "chromium_third_party_libsync",                   # 上游开源软件名全称
-        "License":         # 上游开源软件中包含的许可证信息
+        "License":"Khronos License","GPL-2.0-with-bison-exception","GPL-3.0+","Khronos Group License"         # 上游开源软件中包含的许可证信息
         "License File":     # 许可证所在文件路径
         "Version Number": "f4f4387b6bf2387efbcfd1453af4892e8982faf6",
         "Upstream URL": "https://chromium.googlesource.com/aosp/platform/system/core/libsync.git@f4f4387b6bf2387efbcfd1453af4892e8982faf6",   # 上游软件包发布地址
