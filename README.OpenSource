@@ -1,8 +1,8 @@
 [
     {
         "Name": "libsync",
-        "License": "Apache-2.0",
-        "License File": "LICENSE.txt",
+        "License": "AOSP",
+        "License File": "LICENSE",
         "Version Number": "f4f4387b6bf2387efbcfd1453af4892e8982faf6",
         "Owner": "huangjiewen2@hauwei.com",
         "Upstream URL": "https://chromium.googlesource.com/aosp/platform/system/core/libsync.git@f4f4387b6bf2387efbcfd1453af4892e8982faf6",
