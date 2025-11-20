@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "libsync",
+        "License": "AOSP",
+        "License File": "LICENSE",
+        "Version Number": "f4f4387b6bf2387efbcfd1453af4892e8982faf6",
+        "Owner": "huamengzheng@hauwei.com",
+        "Upstream URL": "https://chromium.googlesource.com/aosp/platform/system/core/libsync.git@f4f4387b6bf2387efbcfd1453af4892e8982faf6",
+        "Description": "第三方软件libsync，是网络数据同步开发库"
+    }
+]
