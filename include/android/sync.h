@@ -19,6 +19,17 @@
 #ifndef __SYS_CORE_SYNC_H
 #define __SYS_CORE_SYNC_H
 
+#ifdef __MUSL__
+#ifdef __cplusplus
+#define __BEGIN_DECLS extern "C" {
+#define __END_DECLS }
+#else
+#define __BEGIN_DECLS
+#define __END_DECLS
+#endif
+#else
+#include <sys/cdefs.h>
+#endif
 /* This file contains the legacy sync interface used by Android platform and
  * device code. The direct contents will be removed over time as code
  * transitions to using the updated interface in ndk/sync.h. When this file is
